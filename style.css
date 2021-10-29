@@ -1,0 +1,13 @@
+.hero{
+    background-color: aquamarine;
+    height: 450px;
+    
+}
+.read-news{
+    border: none!important;
+}
+
+.hero-bg{
+    background-image: url("img/3.jpeg");
+    padding-top: 10%;
+}
