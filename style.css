@@ -1,14 +1,18 @@
 .hero{
-    background-color: aquamarine;
-    height: 450px;
-    
+    /* background-color: aquamarine; */
+    height: 470px;
+    /* opacity: 0.5; */
 }
 .read-news{
     border: none!important;
 }
 
 .hero-bg{
-    background-image: url("img/3.jpeg");
+    background-image: url("img/news-bg.jpg");
+    background-repeat: no-repeat;
+    opacity: 0.2;
+    background-size: cover;
+    opacity: 3;
     padding-top: 10%;
 }
 
