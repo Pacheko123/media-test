@@ -34,10 +34,20 @@
     width: 100%;
 }
 
-.sample-news b , h4,h6{
+.sample-news b ,h6{
+    color: gray;
+}
+
+.sample-news h4{
     color: gray;
 }
 .nav-link{
 
     font-size: 15px!important;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
 }
